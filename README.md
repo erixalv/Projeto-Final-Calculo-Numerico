@@ -15,7 +15,7 @@ Você pode instalar as dependências necessárias usando o `pip`:
 
 ```bash
 pip install matplotlib numpy
-
+```
 ---
 
 ## **Estrutura do Projeto**
