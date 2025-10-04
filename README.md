@@ -109,3 +109,8 @@ O código mostra os resultados em duas partes:
 - Melhorar a interface de usuário com mensagens mais informativas.
 
 ---
+
+## **Apresentação**
+
+[Projeto-Final-Calculo-Numerico.pdf](https://github.com/user-attachments/files/22690727/Projeto-Final-Calculo-Numerico.pdf)
+
